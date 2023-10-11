@@ -1,0 +1,43 @@
+p{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    gap: 30px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.header-title li {
+    margin-right: 30px;
+    color: antiquewhite;
+    display: flex;
+}
+.header-title{
+   align-items: center;
+   margin: 0 auto;
+   margin-left: 1000px;
+   margin-top: 50px;
+   display: flex;
+}
+
+.texts-container{
+    width: 400px;
+}
+
+.App{
+    width: 100%;
+    margin: 0;
+
+}
+
+.main{
+    background-image: url("../public/images/banner\ background.svg");
+    height: 750px;
+}
+
+.Container {
+    position: relative;
+}
